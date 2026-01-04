@@ -2,6 +2,11 @@
   "LIZ-LWZKJBX34": {
     "nombre": "Tienda Win",
     "status": "bloqueado",
-    "mensaje": "Pendiente por Pago\nMonto a Pagar: 9400 BS\nComuníquese con el Administrador."
+    "mensaje": "Pendiente por Pago\nMonto a Pagar: 9400 BS\nComunÃ­quese con el Administrador."
+  },
+  "LIZ-GOREXQ5AI": {
+    "nombre": "Tienda Fedepatria",
+    "status": "activo",
+    "mensaje": "Licencia Activa"
   }
 }
