@@ -1,7 +1,7 @@
 {
   "LIZ-NCJNAWTP0": {
     "nombre": "Yo",
-    "status": "bloqueado",
-    "mensaje": "PAGO PENDIENTE - CONTACTE AL ADMINISTRADOR"
+    "status": "activo",
+    "mensaje": "Licencia Activa"
   }
 }
