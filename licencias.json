@@ -6,7 +6,7 @@
   },
   "LIZ-GOREXQ5AI": {
     "nombre": "Tienda Fedepatria",
-    "status": "activo",
-    "mensaje": "Licencia Activa"
+    "status": "bloqueado",
+    "mensaje": "Pago Pendiente\nA pagar: 9700 Bs\nComunicate con el Administrador."
   }
 }
