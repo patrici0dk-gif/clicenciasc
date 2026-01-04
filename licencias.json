@@ -1,7 +1,7 @@
 {
   "viveres_juan": {
-    "status": "bloqueado",
-    "mensaje": "PAGO PENDIENTE - CONTACTE AL ADMINISTRADOR"
+    "status": "activo",
+    "mensaje": "Licencia Activa"
   },
   "ferreteria_perez": {
     "status": "activo",
