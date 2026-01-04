@@ -1,7 +1,7 @@
 {
   "LIZ-LWZKJBX34": {
     "nombre": "Tienda Win",
-    "status": "activo",
-    "mensaje": "Licencia Activa"
+    "status": "bloqueado",
+    "mensaje": "Pendiente por Pago\nMonto a Pagar: 9400 BS\nComuníquese con el Administrador."
   }
 }
