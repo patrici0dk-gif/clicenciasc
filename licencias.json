@@ -1,0 +1,10 @@
+{
+  "viveres_juan": {
+    "status": "activo",
+    "mensaje": "Licencia Activa"
+  },
+  "ferreteria_perez": {
+    "status": "activo",
+    "mensaje": "Licencia Activa"
+  }
+}
