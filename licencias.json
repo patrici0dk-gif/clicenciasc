@@ -11,8 +11,8 @@
   },
   "LIZ-XZTK7CJRY": {
     "nombre": "Ferreteria de la Esquina",
-    "status": "activo",
-    "mensaje": "Licencia Activa",
+    "status": "bloqueado",
+    "mensaje": "Pendiente por Pago:\nMonto a Pagar: 4745,74 Bs\nComunicate con ValidatedPro",
     "hwid": ""
   }
 }
