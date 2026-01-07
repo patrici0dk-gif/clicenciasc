@@ -4,5 +4,11 @@
     "status": "bloqueado",
     "mensaje": "Suspendido",
     "hwid": ""
+  },
+  "LIZ-GM7WME-492041": {
+    "nombre": "Wody",
+    "status": "activo",
+    "mensaje": "Licencia Activa",
+    "hwid": ""
   }
 }
