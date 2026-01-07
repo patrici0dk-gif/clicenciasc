@@ -1,8 +1,8 @@
 {
   "LIZ-GXX55W-H9LV8F": {
     "nombre": "Ferreteria de la Esquina",
-    "status": "activo",
-    "mensaje": "Licencia Activa",
+    "status": "bloqueado",
+    "mensaje": "Suspendido",
     "hwid": ""
   }
 }
